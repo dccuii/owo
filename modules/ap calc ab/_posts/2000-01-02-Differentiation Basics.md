@@ -20,11 +20,9 @@ The concept of the derivative distinctly comes before the concept of the integra
 
 The shortening of an interval over which we calculate the average rate of change is the key to understanding *instantaneous slope*, in other words, the slope of the tangent line of a graph at a certain point. 
 
-The definition of a function limit is as follows:
-$$ f'(x) = \lim_{h \rightarrow 0} \frac{f(x+h) - f(x)}{h}. $$
+The definition of a function limit is as follows: $ f'(x) = \lim_{h \rightarrow 0} \frac{f(x+h) - f(x)}{h}. $
 
-The derivative of $f(x)$ at $x=c$, or $f'(c)$, is defined as follows:
-$$ f'(c) = \lim_{x \rightarrow c} \frac{f(x)-f(c)}{x-c}. $$
+The derivative of $f(x)$ at $x=c$, or $f'(c)$, is defined as follows: $ f'(c) = \lim_{x \rightarrow c} \frac{f(x)-f(c)}{x-c}. $
 
 The derivative at a point gives rise to a very important property about derivatives. Not only does the point have to be defined for the derivative to exist (lol obv), the two one-sided limits *also* have to exist. This *is* the limit definition. Thus if the two one-sided limits are unequal, then the derivative *cannot* exist. 
 
@@ -50,8 +48,7 @@ However, we use these rules to analyze the derivatives of other trigonometric fu
 
 ## 2.4: Chain rule
 
-First, the rule: 
-$$ [f(g(x))]' = f'(g(x))*g'(x)$$
+First, the rule: $ [f(g(x))]' = f'(g(x))*g'(x)$
 
 alr this is a confusing one, im gonna speak a bit more informally here
 
