@@ -21,7 +21,11 @@ At least on the AP Exam, visual estimations of limits will be relatively straigh
 
 haha gl xd
 
-The formal definition of limit is as follows: $ \forall \epsilon > 0, \exists \delta > 0 : \vert x - c \vert < \delta \Rightarrow \vert f(x) - L \vert < \epsilon $. This follows the intuitive definition almost exactly. 
+The formal definition of limit is as follows: 
+
+$\forall \epsilon > 0, \exists \delta > 0 : \vert x - c \vert < \delta \Rightarrow \vert f(x) - L \vert < \epsilon$. 
+
+This follows the intuitive definition almost exactly. 
 
 For any $\epsilon$ (output error bound), we want $ \vert f(x) - L \vert < \epsilon$. In other words, we want the difference between the limit value and the function output to be at most $\epsilon$.
 
