@@ -21,11 +21,11 @@ At least on the AP Exam, visual estimations of limits will be relatively straigh
 
 haha gl xd
 
-The formal definition of limit is as follows: $ \forall \epsilon > 0, \exists \delta > 0 : |x - c| < \delta \Rightarrow |f(x) - L| < \epsilon $. This follows the intuitive definition almost exactly. 
+The formal definition of limit is as follows: $ \forall \epsilon > 0, \exists \delta > 0 : \vert x - c \vert < \delta \Rightarrow \vert f(x) - L \vert < \epsilon $. This follows the intuitive definition almost exactly. 
 
-For any $\epsilon$ (output error bound), we want $|f(x) - L| < \epsilon$. In other words, we want the difference between the limit value and the function output to be at most $\epsilon$.
+For any $\epsilon$ (output error bound), we want $ \vert f(x) - L \vert < \epsilon$. In other words, we want the difference between the limit value and the function output to be at most $\epsilon$.
 
-This can be achieved by requiring $|x - c| < \delta$ for some $\delta$ (input error bound) that we can find. In other words, we can require the difference between $x$ and the limit point to be at most $\delta$. Then, the *output bound* can be achieved with this requirement of an *input bound*. 
+This can be achieved by requiring $ \vert x - c \vert < \delta$ for some $\delta$ (input error bound) that we can find. In other words, we can require the difference between $x$ and the limit point to be at most $\delta$. Then, the *output bound* can be achieved with this requirement of an *input bound*. 
 
 
 ## 1.2: Limit evaluation
