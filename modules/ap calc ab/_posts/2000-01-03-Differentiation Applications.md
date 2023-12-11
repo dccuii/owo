@@ -3,31 +3,28 @@
 This topic deals with the various applications of differentiation. The derivative is very useful in contexts where we find 
 
 Sections in this unit: 
-- 3.1 Mean value theorem
-- 3.2: L'hospital's rule
-- 3.3: Local linearity approximation 
-- 3.4: Derivative contexts
-- 3.5: Critical points and extrema
-- 3.6: Optimization
-- 3.7: Concavity
-- 3.8: Connecting f, f', and f''. 
-- 3.9: Related rates
+- 3.1 Mean value theorem and L'hospital's rule
+- 3.2: Local linearity approximation 
+- 3.3: Derivative contexts
+- 3.4: Critical points and extrema
+- 3.5: Optimization
+- 3.6: Concavity
+- 3.7: Function sketching
+- 3.8: Related rates
 
 ---
-## 3.1 Mean value theorem
+## 3.1 Mean value theorem and L'Hopital's rule
 
-## 3.2: L'hospital's rule
+## 3.2: Local linearity approximation 
 
-## 3.3: Local linearity approximation 
+## 3.3: Derivative contexts
 
-## 3.4: Derivative contexts
+## 3.4: Critical points and extrema
 
-## 3.5: Critical points and extrema
+## 3.5: Optimization
 
-## 3.6: Optimization
+## 3.6: Concavity
 
-## 3.7: Concavity
+## 3.7: Function sketching
 
-## 3.8: Connecting f, f', and f''. 
-
-## 3.9: Related rates
+## 3.8: Related rates
